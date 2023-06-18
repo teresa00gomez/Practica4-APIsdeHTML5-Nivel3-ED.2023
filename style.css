@@ -1,0 +1,49 @@
+
+*{
+    text-align: center;
+}
+
+#loading{
+    font-weight: bold;
+    font-size: larger;
+    margin-top: 20px;
+    display: none;
+}
+
+#videoContainer,  {
+    display: none;
+}
+
+#video{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+body {
+    background-color: #ffffff;
+    font-family: Helvetica, sans-serif;
+}
+
+
+button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #F5B037;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #F57F37;
+}
+
+#buttons {
+    width: 90%;
+    margin: 30px auto;
+    text-align: center;
+}
